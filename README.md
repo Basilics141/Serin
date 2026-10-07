@@ -5,9 +5,9 @@
 
 *Never miss a special moment. Make every one unforgettable.*
 
-[![Google Play](https://img.shields.io/badge/Google_Play-Live_Now-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](PLAY_STORE_LINK)
-[![Instagram Video](https://img.shields.io/badge/Demo-Watch_in_60s-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](DEMO_VIDEO_LINK)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Reyhan_Mendi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](LINKEDIN_LINK)
+[![Google Play](https://img.shields.io/badge/Google_Play-Live_Now-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.serin.hediyenavigator)
+[![Instagram Video](https://img.shields.io/badge/Demo-Watch_in_60s-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.instagram.com/reel/DdHXR_rsHqt/?stkn=MTU4MWo2N3Jjc2QxZA==)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Reyhan_Mendi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reyhan-mendi)
 
 ![React Native](https://img.shields.io/badge/React_Native-New_Architecture-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=flat-square&logo=expo&logoColor=white)
@@ -17,19 +17,14 @@
 
 <br>
 
-<img src="assets/screenshots/00-banner.png" width="760" alt="Serin: Hediye Aramaya Son Ver" />
+<img width="819" height="1456" alt="Home dashboard" src="https://github.com/user-attachments/assets/e1a7be80-3dfd-4e90-90e9-200033b2f41b" />
+<img width="819" height="1456" alt="Discover: swipe-based gift curation" src="https://github.com/user-attachments/assets/7f77618f-cc74-4c09-bbdc-901e252e9d77" />
+<img width="819" height="1456" alt="Ortak Kasa: group fund" src="https://github.com/user-attachments/assets/1b9d683a-2231-4861-baa3-3c567b433e19" />
 
-<br><br>
+<img width="819" height="1456" alt="Interactive Digital Cake" src="https://github.com/user-attachments/assets/ffd9be80-2260-42e9-a13a-50041ccfcf96" />
+<img width="819" height="1456" alt="Dark mode, profile and events" src="https://github.com/user-attachments/assets/15415c24-a5dd-4f7b-8b08-22b52ce2a3bc" />
+<img width="819" height="1456" alt="AI-generated acrostic poem" src="https://github.com/user-attachments/assets/276bfd26-83bd-4f17-a788-de111237b6ab" />
 
-<img src="assets/screenshots/01-home.png" width="230" alt="Home dashboard" />
-<img src="assets/screenshots/02-discover.png" width="230" alt="Discover: swipe-based gift curation" />
-<img src="assets/screenshots/03-ortak-kasa.png" width="230" alt="Ortak Kasa: group fund" />
-
-<br>
-
-<img src="assets/screenshots/04-digital-cake.png" width="230" alt="Interactive Digital Cake" />
-<img src="assets/screenshots/05-ai-poem.png" width="230" alt="AI-generated acrostic poem" />
-<img src="assets/screenshots/06-dark-mode.png" width="230" alt="Dark mode, profile and events" />
 
 </div>
 
@@ -54,7 +49,7 @@
 | **Status** | Live on Google Play, published after a 14-day closed test |
 | **My role** | Founder · Product design · UI/UX & illustration · Mobile engineering · Serverless backend · Release management |
 | **Team** | Solo |
-| **Build time** | ~2.5 months of intensive development, followed by a 14-day closed test |
+| **Build time** | ~4 months of intensive development, followed by a 14-day closed test |
 | **Stack** | React Native (New Architecture) · Expo · Reanimated · Firebase · Vercel Serverless Functions · Groq LLM APIs |
 
 ---
@@ -160,9 +155,9 @@ Serin was built with an **AI-assisted development workflow**. I owned the produc
 
 ## Try It & Give Feedback
 
-📲 **Google Play:** [Download Serin](PLAY_STORE_LINK)
-🎬 **Instagram video:** [Watch]()
-🔒 **Privacy policy:** [Read](PRIVACY_POLICY_LINK)
+📲 **Google Play:** [Download Serin](https://play.google.com/store/apps/details?id=com.serin.hediyenavigator)
+🎬 **Instagram video:** [Watch](https://www.instagram.com/reel/DdHXR_rsHqt/?stkn=MTU4MWo2N3Jjc2QxZA==)
+🔒 **Privacy policy:** [Read](https://serin-app.vercel.app/PrivacyPolicyScreen)
 
 ---
 
