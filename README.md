@@ -1,5 +1,3 @@
-<div align="center">
-
 # Serin
 ### GenAI-Powered Smart Gifting & Event Assistant
 
@@ -17,14 +15,15 @@
 
 <br>
 
-<img width="819" height="1456" alt="Home dashboard" src="https://github.com/user-attachments/assets/e1a7be80-3dfd-4e90-90e9-200033b2f41b" />
-<img width="819" height="1456" alt="Discover: swipe-based gift curation" src="https://github.com/user-attachments/assets/7f77618f-cc74-4c09-bbdc-901e252e9d77" />
-<img width="819" height="1456" alt="Ortak Kasa: group fund" src="https://github.com/user-attachments/assets/1b9d683a-2231-4861-baa3-3c567b433e19" />
+<img src="https://github.com/user-attachments/assets/1b6c4e6b-55b3-4747-a578-20bed66ee11c" width="230" alt="Home dashboard" />
+<img src="https://github.com/user-attachments/assets/81b0791c-1a7b-4bf4-8777-b1dee926ff87" width="230" alt="Discover: swipe-based gift curation" />
+<img src="https://github.com/user-attachments/assets/307a00cd-038f-4e12-893a-9d2a465cd01d" width="230" alt="Ortak Kasa: group fund" />
 
-<img width="819" height="1456" alt="Interactive Digital Cake" src="https://github.com/user-attachments/assets/ffd9be80-2260-42e9-a13a-50041ccfcf96" />
-<img width="819" height="1456" alt="Dark mode, profile and events" src="https://github.com/user-attachments/assets/15415c24-a5dd-4f7b-8b08-22b52ce2a3bc" />
-<img width="819" height="1456" alt="AI-generated acrostic poem" src="https://github.com/user-attachments/assets/276bfd26-83bd-4f17-a788-de111237b6ab" />
+<br>
 
+<img src="https://github.com/user-attachments/assets/6accbec3-5a93-4235-9bc3-0fd7c41c009c" width="230" alt="Interactive Digital Cake" />
+<img src="https://github.com/user-attachments/assets/8ec1500b-5630-4b14-90f1-20a69d4c3421" width="230" alt="AI-generated acrostic poem" />
+<img src="https://github.com/user-attachments/assets/575d55a9-5583-4676-8027-07866cd55033" width="230" alt="Dark mode, profile and events" />
 
 </div>
 
